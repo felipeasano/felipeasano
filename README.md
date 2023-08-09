@@ -4,8 +4,8 @@ Sou estudante do curso de Ciências da Computação da Universidade Estadual do 
 
 <div>
   <a href="https://github.com/felipeasano">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipeasano&show_icons=true&theme=transparent"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeasano&layout=compact&theme=transparent"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeasano&show_icons=true&theme=transparent"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeasano&layout=compact&theme=transparent"/>
 </div>
 
 <div>
