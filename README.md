@@ -11,14 +11,15 @@ Sou estudante do curso de Ciências da Computação da Universidade Estadual do 
 <div>
   <img align="center" alt="Fe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Fe-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-  <img 
+  <img align="center" alt="Fe-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Fe-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
 ##
 
 <div>
   <a href = "https://www.linkedin.com/in/felipe-asano-87a038235/">
-    <img align = "center" alt = "Fe-LinkedIn" height="30" width="80" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    <img align = "center" alt = "Fe-LinkedIn" height="30" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </div>
 
 ##
