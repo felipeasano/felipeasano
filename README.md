@@ -20,6 +20,7 @@ Sou estudante do curso de Ciências da Computação da Universidade Estadual do 
 <div>
   <a href = "https://www.linkedin.com/in/felipe-asano-87a038235/" target="_blank">
     <img align = "center" alt = "Fe-LinkedIn" height="30" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
 </div>
 
 ##
